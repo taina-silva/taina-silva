@@ -1,7 +1,7 @@
 ### Olá 👋 Eu sou a Tainá Silva...
 
-- 🔭 Trabalhando atualmente com front-end.
-- 🌱 Estudando REACT.
+- 🔭 Trabalhando atualmente com front-end mobile.
+- 🌱 Estudando Flutter.
 
 <div align="center">
   <a href="https://github.com/taina-silva">
