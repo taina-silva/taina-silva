@@ -1,7 +1,7 @@
-### Olá 👋 Eu sou a Tainá Silva...
+### Olá 👋 Eu sou a Tainá Santos
 
-- 🔭 Trabalhando atualmente com front-end mobile.
-- 🌱 Estudando Flutter.
+- Trabalhando atualmente como front-end mobile.
+- Estudando Flutter.
 
 <div align="center">
   <a href="https://github.com/taina-silva">
