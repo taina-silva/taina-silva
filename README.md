@@ -1,7 +1,7 @@
 ### Olá 👋 Eu sou a Tainá Santos
 
-- Trabalhando atualmente como front-end mobile.
-- Estudando Flutter.
+- Atuando como Desenvolvedora Mobile.
+- Flutter | Dart | Firebase
 
 <div align="center">
   <a href="https://github.com/taina-silva">
